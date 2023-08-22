@@ -1,7 +1,7 @@
 {
   "name": "fb-campaigns-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "Matheus Lima Roichman",
   "license": "MIT",
   "devDependencies": {
